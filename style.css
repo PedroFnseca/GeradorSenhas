@@ -1,0 +1,52 @@
+body{
+    background-color: #3f0543;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#titulo{
+    margin-top: 2em;
+    text-align: center;
+    font-size: 2rem;
+    color: white;
+    text-shadow: 4px 2px #070008f7;
+}
+
+#conteudo{
+    margin-top: 5rem;
+    background-color: #772c88;
+    padding: 30px;
+    width: 43vw;
+    text-align: center;
+    margin: auto;
+    margin-top: 5rem;
+    border: 2px solid #070008f7;
+    border-radius: 30px;
+    box-shadow: 10px 5px rgba(17, 17, 17, 0.819);
+}
+
+#dados{
+    margin-bottom: 3rem;
+}
+
+.input{
+    width: 95%;
+    text-align: center;
+    font-size: large;
+    border: solid 1px;
+    border-radius: 6px;
+    box-shadow: 2px 1px rgba(0, 0, 0, 0.391);
+}
+
+.btn{
+    margin-top: 1rem;
+    font-size: large;
+    border: solid 2px rgba(0, 0, 0, 0.396);
+    background-color: #481360d8;
+    color: #F9F6F2;
+    border-radius: 5px;
+    box-shadow: 2px 2px rgba(0, 0, 0, 0.488);
+} 
+
+.btn :hover{
+    color: #72b963;
+}
