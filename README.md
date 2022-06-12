@@ -14,4 +14,5 @@
   - Fazer uma interface resposiva para todos os tamanhos de tela
   - Uma interface que facilite o uso
   - Simples e minimalista
-  - Gera senhas fortes
+  - Gerar senhas fortes
+  - Gerar senhas em tamanhos personalizáveis 
